@@ -1,0 +1,13 @@
+.cardDiv {
+    
+}
+
+.imageAndName { 
+    display: flex;
+    flex-direction: row;
+}
+
+.secondDiv {
+    display: flex;
+    flex-direction: row;
+}

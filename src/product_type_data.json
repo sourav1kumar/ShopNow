@@ -1,0 +1,189 @@
+[
+    {
+        "product_name": "Nokia giga",
+        "product_type": "Mobile",
+        "brand_name": "Nokia",
+        "price": "19.99",
+        "location": {
+            "city": "Ramgarh",
+            "state": "Jharkhand"
+        },
+        "description": "Unreal experience you have never experienced before!!"
+    },
+    {
+        "product_name": "Samsung s series",
+        "brand_name": "Samsung",
+        "product_type": "Mobile",
+        "price": "29.99",
+        "location": {
+            "city": "Gurgaon",
+            "state": "Delhi"
+        },
+        "description": "Unreal experience you have never experienced before!!"
+    },
+    {
+        "product_name": "Motorola giga",
+        "brand_name": "Motorola",
+        "product_type": "Mobile",
+        "price": "29.99",
+        "location": {
+            "city": "Lucknow",
+            "state": "Uttar Pradesh"
+        },
+        "description": "Unreal experience you have never experienced before!!"
+    },
+    {
+        "product_name": "Nokia apert 3s",
+        "brand_name": "Nokia",
+        "product_type": "Television",
+        "price": "29.99",
+        "location": {
+            "city": "Mumbai",
+            "state": "Maharashtra"
+        },
+        "description": "Unreal experience you have never experienced before!!"
+    },
+    {
+        "product_name": "Redmi smart tv",
+        "brand_name": "Redmi",
+        "product_type": "Television",
+        "price": "29.99",
+        "location": {
+            "city": "Chennai",
+            "state": "Tamil Nadu"
+        },
+        "description": "Unreal experience you have never experienced before!!"
+    },
+    {
+        "product_name": "Laptop1 giga",
+        "brand_name": "Nokia",
+        "product_type": "Laptop",
+        "price": "29.99",
+        "location": {
+            "city": "Ramgarh",
+            "state": "Jharkhand"
+        },
+        "description": "Unreal experience you have never experienced before!!"
+    },
+    {
+        "product_name": "Laptop2 giga",
+        "brand_name": "Nokia",
+        "product_type": "Laptop",
+        "price": "29.99",
+        "location": {
+            "city": "Ramgarh",
+            "state": "Jharkhand"
+        },
+        "description": "Unreal experience you have never experienced before!!"
+    },
+    {
+        "product_name": "Laptop2 giga",
+        "brand_name": "Nokia",
+        "product_type": "Laptop",
+        "price": "29.99",
+        "location": {
+            "city": "Ramgarh",
+            "state": "Jharkhand"
+        },
+        "description": "Unreal experience you have never experienced before!!"
+    },
+    {
+        "product_name": "Nokia giga",
+        "product_type": "Mobile",
+        "brand_name": "Nokia",
+        "price": "29.99",
+        "location": {
+            "city": "Ramgarh",
+            "state": "Jharkhand"
+        },
+        "description": "Unreal experience you have never experienced before!!"
+    },
+    {
+        "product_name": "Samsung s series",
+        "brand_name": "Samsung",
+        "product_type": "Mobile",
+        "price": "29.99",
+        "location": {
+            "city": "Gurgaon",
+            "state": "Delhi"
+        },
+        "description": "Unreal experience you have never experienced before!!"
+    },
+    {
+        "product_name": "Motorola giga",
+        "brand_name": "Motorola",
+        "product_type": "Mobile",
+        "price": "29.99",
+        "location": {
+            "city": "Lucknow",
+            "state": "Uttar Pradesh"
+        },
+        "description": "Unreal experience you have never experienced before!!"
+    },
+    {
+        "product_name": "Nokia apert 3s",
+        "brand_name": "Nokia",
+        "product_type": "Television",
+        "price": "29.99",
+        "location": {
+            "city": "Mumbai",
+            "state": "Maharashtra"
+        },
+        "description": "Unreal experience you have never experienced before!!"
+    },
+    {
+        "product_name": "Redmi smart tv",
+        "brand_name": "Redmi",
+        "product_type": "Television",
+        "price": "29.99",
+        "location": {
+            "city": "Chennai",
+            "state": "Tamil Nadu"
+        },
+        "description": "Unreal experience you have never experienced before!!"
+    },
+    {
+        "product_name": "Redmi smart tv",
+        "brand_name": "Redmi",
+        "product_type": "Television",
+        "price": "29.99",
+        "location": {
+            "city": "Chennai",
+            "state": "Tamil Nadu"
+        },
+        "description": "Unreal experience you have never experienced before!!"
+    },
+    {
+        "product_name": "Laptop1 giga",
+        "brand_name": "Nokia",
+        "product_type": "Laptop",
+        "price": "29.99",
+        "location": {
+            "city": "Ramgarh",
+            "state": "Jharkhand"
+        },
+        "description": "Unreal experience you have never experienced before!!"
+    },
+    {
+        "product_name": "Laptop2 giga",
+        "brand_name": "Nokia",
+        "product_type": "Laptop",
+        "price": "29.99",
+        "location": {
+            "city": "Ramgarh",
+            "state": "Jharkhand"
+        },
+        "description": "Unreal experience you have never experienced before!!"
+    },
+    {
+        "product_name": "Laptop2 giga",
+        "brand_name": "Nokia",
+        "product_type": "Laptop",
+        "price": "29.99",
+        "location": {
+            "city": "Ramgarh",
+            "state": "Jharkhand"
+        },
+        "description": "Unreal experience you have never experienced before!!"
+    }
+]

@@ -1,0 +1,33 @@
+.App {
+  background-color: rgb(41, 41, 41);
+  color: white;
+  display: "flex";
+  margin: 0;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.mainAppDiv {
+  display: flex;
+  flex-direction: row;
+}
+
+.filterDiv {
+  padding: 30px;
+  width: 30%;
+}
+
+.productDiv {
+  padding: 30px;
+  width: 70%;
+}
+
+@media (max-width: 1000px) {
+  .mainAppDiv {
+    display: inline-block;
+  }
+  .filterDiv {
+    width: 100%;
+  }
+  .productDiv {
+    width: 100%;
+  }
+}
